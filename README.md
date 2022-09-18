@@ -1,5 +1,5 @@
 ### Hi there, my name is Roman. 👋
-![](https://img.shields.io/github/followers/rdavydov?style=for-the-badge&logo=github&color=blue&logoColor=aquamarine)
+![](https://img.shields.io/github/followers/rdavydov?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
 ![](https://img.shields.io/github/stars/rdavydov?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=darkgreen&logoColor=lightgreen&style=for-the-badge)
 
 <!--

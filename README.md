@@ -1,16 +1,12 @@
-### Hi there, my name is Roman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://img.shields.io/github/followers/rdavydov?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
-![](https://img.shields.io/github/stars/rdavydov?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=darkgreen&logoColor=lightgreen&style=for-the-badge)
+### Hi there, my name is Roman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="25px">
+[![Followers Badge](https://img.shields.io/github/followers/rdavydov?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)](https://github.com/rdavydov)
+[![Stars Badge](https://img.shields.io/github/stars/rdavydov?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=darkgreen&logoColor=lightgreen&style=for-the-badge)](https://github.com/rdavydov)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Roman_D-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdavidoff/)](https://www.linkedin.com/in/rdavidoff/)
 
 <details><summary><strong>Stats</strong></summary>
 
-## Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=rdavydov&count_private=true&show_icons=true&hide_border=true&custom_title=Stats&bg_color=00000000)](https://github.com/rdavydov)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdavydov&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/rdavydov)
+[![Stats](https://github-readme-stats.vercel.app/api?username=rdavydov&count_private=true&show_icons=true&hide_border=true&theme=highcontrast)](https://github.com/rdavydov)
 
 </details>
 <!--

@@ -1,4 +1,4 @@
-### Hi there, my name is Roman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="25px">
+### Hi there, my name is Roman. <img src="https://github.com/rdavydov/rdavydov/blob/main/img/Waving%20Hand.gif?raw=true" alt="Waving Hand" width="25px">
 [![Followers Badge](https://img.shields.io/github/followers/rdavydov?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)](https://github.com/rdavydov)
 [![Stars Badge](https://img.shields.io/github/stars/rdavydov?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=darkgreen&logoColor=lightgreen&style=for-the-badge)](https://github.com/rdavydov)
 

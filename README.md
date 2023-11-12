@@ -6,9 +6,10 @@
 <p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-rdavidoff-0b64bf?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdavidoff/)](https://www.linkedin.com/in/rdavidoff/)
-[![Twitter Badge](https://img.shields.io/badge/-r__davydov-1d9bf0?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/r_davydov)](https://twitter.com/r_davydov)
-[![Telegram Badge](https://img.shields.io/badge/-rdavidoff-161b22?style=flat&logo=Telegram&logoColor=white&link=https://t.me/rdavidoff)](https://t.me/rdavidoff)
+[![X Badge](https://img.shields.io/badge/-r__davydov-00acee?style=flat&logo=X&logoColor=white&link=https://twitter.com/r_davydov)](https://twitter.com/r_davydov)
+[![Telegram Badge](https://img.shields.io/badge/-rdavidoff-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/rdavidoff)](https://t.me/rdavidoff)
 [![CodePen Badge](https://img.shields.io/badge/-roman-161b22?style=flat&logo=CodePen&logoColor=white&link=https://codepen.io/roman)](https://codepen.io/roman)
+[![CodeSandbox Badge](https://img.shields.io/badge/-rdavydov-4169e1?style=flat&logo=CodeSandbox&logoColor=black&link=https://codesandbox.io/u/rdavydov)](https://codesandbox.io/u/rdavydov)
 </p>
 </details>
 

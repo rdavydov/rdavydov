@@ -13,7 +13,7 @@
 </p>
 </details>
 
-<details><summary>💻 <strong>Stack</strong>: </summary>
+<details><summary>💻 <strong>Stack</strong></summary>
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -42,7 +42,15 @@
 
 </details>
 
-<details><summary><strong>📊 GitHub Stats</strong></summary>
+<details><summary><strong>📊 GitHub Metrics</strong></summary>
+<p>
+
+![GitHub Metrics](/github-metrics.svg)
+
+</p>
+</details>
+
+<details><summary><strong>📈 GitHub Stats</strong></summary>
 <p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdavydov&count_private=true&show_icons=true&hide_border=true&theme=highcontrast)](https://github.com/rdavydov)
